@@ -6,6 +6,7 @@ header{
 }
 nav{
     font-weight: bold;
+    background-color: black;
 }
 
 ul {
@@ -13,6 +14,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    color: white;
   }
   
   li {
