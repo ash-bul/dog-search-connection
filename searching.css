@@ -1,0 +1,49 @@
+header{
+    text-align: center;
+    background-color: rgb(69, 161, 189);
+    color: white;
+}
+
+
+
+h3{
+    background-color: rgb(69, 161, 189);
+}
+
+.sites{
+    color: white;
+    text-decoration: none;
+}
+
+.sites:hover{
+    color: black;
+}
+
+p{
+ text-align: left;
+ width: 45%;
+ display: inline-block;
+ height: 325px;
+ padding-right: 10px;
+}
+
+img{
+    float: right;
+    position: absolute;
+}
+
+.hoobly_craig{
+    height: 325px;
+    width: 650px;
+}
+
+.home{
+    color: rgb(69, 161, 189);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.home:hover{
+    color:black;
+}
+
