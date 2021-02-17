@@ -32,7 +32,7 @@ img{
     position: absolute;
 }
 
-.hoobly_craig{
+.pictures{
     height: 325px;
     width: 650px;
 }
@@ -47,3 +47,12 @@ img{
     color:black;
 }
 
+.akc{
+    text-decoration: none; 
+    font-weight: bold; 
+    color: rgb(131, 49, 207)
+}
+
+.akc:hover{
+    color: rgb(69, 161, 189);
+}
